@@ -1,0 +1,3 @@
+model.safetensor is missing due to high dimension.
+You can download it here:
+https://huggingface.co/AngeloTetro/PoisonChat/tree/main/bert_italian_category_webapp_model
